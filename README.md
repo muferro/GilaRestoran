@@ -1,2 +1,2 @@
-# GilaRestorant
-Welcome to Gila Mexican Restorant
+# Gila Restoran
+Welcome to Gila Mexican Restoran
